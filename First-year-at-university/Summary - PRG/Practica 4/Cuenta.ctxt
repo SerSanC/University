@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=numCuenta\ saldoInicial
+comment0.target=Cuenta(int,\ double)
+comment0.text=\n\ Constructor\ que,\ dados\ un\ n\u00FAmero\ de\ cuenta\ y\ un\ saldo\ inicial,\ crea\ una\ cuenta.\ \n\ @param\ numCuenta\ int\ que\ indica\ el\ n\u00FAmero\ de\ cuenta\ asociado\ a\ esta\ cuenta.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Debe\ ser\ un\ entero\ con\ 5\ d\u00EDgitos.\n\ @param\ saldoInicial\ double\ que\ indica\ el\ saldo\ inicial\ de\ la\ cuenta.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Debe\ ser\ un\ valor\ real\ >\=0.\n
+comment1.params=cantidad
+comment1.target=void\ ingresar(double)
+comment1.text=\n\ Permite\ ingresar\ dinero\ en\ la\ cuenta.\n\ @param\ cantidad\ double\ que\ indica\ la\ cantidad\ a\ ingresar.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Debe\ ser\ un\ valor\ real\ >\=0.\n
+comment2.params=cantidad
+comment2.target=void\ retirar(double)
+comment2.text=\n\ Permite\ retirar\ dinero\ de\ la\ cuenta.\n\ @param\ cantidad\ double\ que\ indica\ la\ cantidad\ a\ retirar.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Debe\ ser\ un\ valor\ real\ >\=0\ y\ <\=saldo.\n
+comment3.params=
+comment3.target=double\ getSaldo()
+comment3.text=\n\ Consultor\ del\ saldo\ actual\ de\ la\ cuenta.\n\ @return\ double,\ el\ saldo\ actual.\n
+comment4.params=
+comment4.target=int\ getNumCuenta()
+comment4.text=\n\ Consultor\ del\ n\u00FAmero\ de\ cuenta\ de\ la\ cuenta.\n\ @return\ int,\ el\ n\u00FAmero\ de\ cuenta.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Devuelve\ una\ String\ representando\ la\ cuenta\ en\ el\ formato\ siguiente,\ \n\ por\ ejemplo,\ 12345\ 100.52\ donde\ 12345\ es\ el\ n\u00FAmero\ de\ cuenta\ y\ \n\ 100.52\ es\ el\ saldo\ de\ la\ misma.\n\ @return\ String.\n
+numComments=6

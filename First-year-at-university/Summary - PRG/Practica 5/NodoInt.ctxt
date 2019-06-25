@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dato\ siguiente
+comment0.target=NodoInt(int,\ lineales.NodoInt)
+comment0.text=\ Constructor\ que\ permite\ crear\ un\ nodo\ con\ un\ int\ y\ un\ nodo\ siguiente\ determinado\n\ \ @param\ dato\ valor\ int\ que\ contiene\ el\ nodo\n\ \ @param\ siguiente\ Referencia\ al\ siguiente\ nodo\ de\ la\ lista\n
+comment1.params=dato
+comment1.target=NodoInt(int)
+comment1.text=\ Constructor\ que\ permite\ crear\ un\ nodo\ con\ un\ int\ y\ cuyo\ nodo\ siguiente\ es\ null\n\ \ @param\ dato\ valor\ int\ que\ contiene\ el\ nodo\n
+numComments=2

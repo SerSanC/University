@@ -1,0 +1,6 @@
+            Dado un texto, una concordancia de éste es una lista de
+        las palabras que aparecen en el mismo junto con información 
+        referente a cada una de estas palabras (habitualmente el número 
+        de repeticiones de cada una, así como el lugar o lugares de 
+        aparición de cada palabra en el mismo).
+

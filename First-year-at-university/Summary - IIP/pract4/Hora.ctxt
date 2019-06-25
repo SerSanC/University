@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.params=hh\ mm
+comment0.target=Hora(int,\ int)
+comment0.text=\n\ \ Hora\ correspondiente\ a\ las\ hh\ horas\ y\ mm\ minutos.\n\ \ Precondicion\:\ 0<\=hh<24,\ 0<\=mm<60.\n
+comment1.params=
+comment1.target=Hora()
+comment1.text=\n\ Hora\ (horas\ y\ minutos)\ actual\ UTC\ (tiempo\ coordinado\ universal).\n
+comment10.params=hhmm
+comment10.target=Hora\ valueOf(java.lang.String)
+comment10.text=\ Devuelve\ una\ Hora\ a\ partir\ de\ la\ descripcion\ textual\ en\ formato\ "hh\:mm".\n
+comment2.params=
+comment2.target=int\ getHoras()
+comment2.text=Devuelve\ las\ horas\ de\ la\ Hora.
+comment3.params=
+comment3.target=int\ getMin()
+comment3.text=Devuelve\ los\ minutos\ de\ la\ Hora.
+comment4.params=horanueva
+comment4.target=void\ setHora(int)
+comment4.text=Modifica\ las\ horas\ de\ la\ Hora.
+comment5.params=minutosnuevos
+comment5.target=void\ setMinutos(int)
+comment5.text=Modifica\ los\ minutos\ de\ la\ Hora.
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\ Devuelve\ la\ hora\ en\ formato\ "hh\:mm".\n
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\ Devuelve\ true\ sii\ o\ es\ una\ Hora\ que\ coincide\ en\ horas\n\ \ y\ minutos\ con\ la\ Hora.\ \ \n
+comment8.params=
+comment8.target=int\ Minutos()
+comment8.text=\ Devuelve\ el\ numero\ de\ minutos\ transcurridos\n\ \ desde\ las\ 00\:00\ hasta\ la\ Hora.\n
+comment9.params=otraHora
+comment9.target=int\ CompareTo(Hora)
+comment9.text=\ Compara\ cronologicamente\ la\ Hora\ y\ otraHora.\ El\ resultado\ es\ un\ valor\:\n\ \ \ \ \ -\ negativo\ si\ la\ Hora\ es\ anterior\ a\ otraHora,\n\ \ \ \ \ -\ cero\ si\ son\ iguales,\n\ \ \ \ \ -\ positivo\ si\ la\ Hora\ es\ posterior\ a\ otraHora.\n
+numComments=11

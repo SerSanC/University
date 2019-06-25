@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pal\ num\ siguiente
+comment0.target=NodoCnc(java.lang.String,\ int,\ NodoCnc)
+comment0.text=\ Constructor\ que\ permite\ crear\ un\ nodo\ con\ los\ datos\ asociados\ y\ \n\ \ un\ nodo\ siguiente\ determinados\n\ \ @param\ pal\ String\ que\ contiene\ el\ nodo\n\ \ @param\ num\ int\ a\ encolar\n\ \ @param\ siguiente\ Referencia\ al\ siguiente\ nodo\ de\ la\ concordancia\n
+comment1.params=pal\ num
+comment1.target=NodoCnc(java.lang.String,\ int)
+comment1.text=\ Constructor\ que\ permite\ crear\ un\ nodo\ con\ los\ datos\ asociados\ y\ \n\ \ cuyo\ nodo\ siguiente\ es\ null\n\ \ @param\ pal\ String\ que\ contiene\ el\ nodo\n\ \ @param\ num\ int\ a\ encolar\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

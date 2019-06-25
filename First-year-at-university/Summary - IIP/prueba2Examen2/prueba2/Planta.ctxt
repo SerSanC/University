@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numPlanta\ numPlazas
+comment0.target=Planta(int,\ int)
+comment0.text=\ Constructor\ que\ crea\ una\ Planta\ dados\ un\ numero\ de\ planta\ y\ un\ numero\ \n\ de\ plazas\ por\ planta.\n\ La\ planta,\ al\ comienzo,\ esta\ vacia.\n\ @param\ numPlanta\ int\ numero\ de\ planta,\ numPlanta\ >\=\ 0.\n\ @param\ numPlazas\ int\ numero\ de\ plazas\ por\ planta,\ numPlazas\ >\ 0.\n
+comment1.params=actual
+comment1.target=int\ numCochesMasDeDosHoras(Hora)
+comment1.text=Ejercicio\ practica\ 7\ -\ turno\ 2
+numComments=2

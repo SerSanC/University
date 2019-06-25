@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ColaIntEnla()
+comment1.params=x
+comment1.target=void\ encolar(int)
+comment2.params=
+comment2.target=int\ desencolar()
+comment3.params=
+comment3.target=int\ primero()
+comment4.params=
+comment4.target=boolean\ vacia()
+comment5.params=
+comment5.target=int\ talla()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

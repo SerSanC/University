@@ -1,0 +1,17 @@
+#BlueJ package file
+objectbench.height=100
+objectbench.width=686
+package.editor.height=400
+package.editor.width=883
+package.editor.x=30
+package.editor.y=44
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.height=62
+target1.name=graphIIP
+target1.type=PackageTarget
+target1.width=80
+target1.x=70
+target1.y=10

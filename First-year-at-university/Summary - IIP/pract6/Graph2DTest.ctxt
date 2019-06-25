@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ test1()
+comment0.text=\ Dibuixar\ sin(x)\ i\ sin(x)/x\ amb\r\n\ x\ en\ [-1.0\:\ +PI*4]\ i\ f(x)\ en\ [-1.10\ \:\ +1.10].\r\n\ Representaci\u00C3\u00B3\ mitjan\u00C3\u00A7ant\ punts\ consecutius.\r\n
+comment1.params=argv
+comment1.target=void\ main(java.lang.String[])
+numComments=2

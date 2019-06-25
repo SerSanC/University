@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ menu()
+comment0.text=\n\ Muestra\ un\ menu\ de\ opciones\ por\ pantalla\ y\n\ lee\ desde\ teclado\ una\ opcion\ valida.\n\ @param\ tec\ Scanner\ que\ representa\ el\ teclado.\n\ @return\ int,\ opcion\ valida.\n
+comment1.params=
+comment1.target=Hora\ lecturaHora()
+comment1.text=\n\ Lectura\ desde\ teclado\ de\ una\ hora\ valida.\n\ @param\ tec\ Scanner\ que\ representa\ el\ teclado.\n\ @return\ Hora,\ hora\ valida.\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ Metodo\ principal.\n\ @param\ args\ String[].\ \ \n\ @throws\ Exception\ si\ ocurre\ algun\ error\ de\ entrada/salida.\n
+numComments=3
